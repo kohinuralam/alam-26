@@ -1,0 +1,491 @@
+/* ######################for-lg#################### */
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+    .program-contant p {
+      font-size: 24px;
+      line-height: 38px;
+    }
+          
+
+  
+
+
+}
+
+/* #################for-lg-screen######################*/
+
+/*#############################for-tablet*#############*/
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+  
+  /*header-area-start*/
+
+    .header-contact ul li {
+    font-size: 14px;
+    line-height: 17px;
+    padding: 10px 17px 10px 0;
+
+    }
+
+  .header-contact ul li span {
+    padding: 0 5px 0 0;
+
+    }
+
+    /*header-area-end
+
+    /*innar-area-start*/
+    .innar-area {
+      background: tan;
+      padding: 45px 0 57px 0;
+
+      }
+
+    .innar-contant h2 {
+      font-size: 38px;
+
+      }
+
+    /*innar-area-end*/
+
+    /*innar-hero-area-start*/
+
+      .innar-hero-area {
+        padding: 49px 0 50px 0;
+
+      }
+
+     .innar-hero-contant p {
+        font-size: 30px;
+        
+        }
+
+      /*innar-hero-area-end*/
+       
+       /* program-area-start */
+
+       .program-area {
+          padding: 0 0 55px 0;
+        }
+
+        .program-title h2 {
+          font-size: 46px;
+          padding: 60px 0 0 0;
+        }
+
+        .program-title p {
+          font-size: 31px;
+          line-height: 44px;
+        }
+
+         .program-images {
+            margin: 40px 0 0 0;
+
+          }
+
+        .images-2 {
+          margin: 75px 0 0 0;
+
+        }
+
+        .program-contant-wrapper {
+          margin: 54px 0 0 0;
+        }
+
+        .program-contant p {
+          font-size: 22px;
+          line-height: 38px;
+
+          }
+
+        .program-list ul li {
+          font-size: 22px;
+          line-height: 40px;
+
+      }
+      
+       /* program-area-end */
+
+       .exception-images img {
+         margin: 90px 0 0 0;
+         }
+
+        .except-images-1 {
+          position: relative;
+        }
+
+        .except-images-2 {
+          position: absolute;
+          top: 151px;
+          left: 98px;
+        }
+  
+
+     
+}
+
+/*########################for-tablet###################*/
+
+
+/*#################for-mobil############################*/
+
+@media screen and (max-width: 767px) {
+
+/*header-area-start*/
+  .header-contact ul li {
+    font-size: 13px;
+    line-height: 17px;
+    padding: 10px 7px 10px 0;
+    }
+
+  .header-contact ul li span {
+    padding: 0 8px 0 0;
+
+    }
+
+    .header-contact ul li i {
+      width: 20px;
+      height: 20px;
+      line-height: 20px; 
+
+    }
+
+    .header-social ul li a {
+      padding: 5px 5px;
+      display: block;
+
+      }
+
+    .header-social ul li a i {
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      font-size: 13px;
+
+      }
+
+    /*header-area-end*/
+
+    /*logo-area-start*/
+     .logo-area {
+        padding: 0 0 40px 0;
+
+       }
+
+    .logo-content h2 {
+       font-size: 31px;
+    }
+
+    .logo-content p {
+      font-size: 28px;
+
+      }
+
+    .logo a img {
+      padding: 10px 0 15px 0;
+
+     }
+
+    .logo-title {
+      padding: 5px 0 0 0;
+
+      }
+
+    /*logo-area-end*/
+
+    /*innar-area-start*/
+    .innar-area {
+      padding: 45px 0 57px 0;
+
+    }
+
+    .innar-contant h2 {
+      font-size: 31px;
+    }
+
+    /*innar-area-end*/
+
+    /*innar-hero-area-start*/
+
+      .innar-hero-area {
+        padding: 49px 0 50px 0;
+
+      }
+
+     .innar-hero-contant p {
+        font-size: 22px;
+        
+        }
+
+      .innar-hero-contant p br {
+        display: none;
+
+       }
+
+      /*innar-hero-area-end*/
+
+       /* program-area-start */
+
+       .program-area {
+          padding: 0 0 55px 0;
+        }
+
+        .program-title h2 {
+          font-size: 29px;
+          padding: 42px 0 0 0;
+        }
+
+        .program-title p {
+          font-size: 28px;
+          line-height: 44px;
+        }
+
+         .program-images {
+            margin: 40px 0 0 0;
+
+          }
+
+        .images-2 {
+          margin: 75px 0 0 0;
+
+        }
+
+        .program-contant-wrapper {
+          margin: 54px 0 0 0;
+        }
+
+        .program-contant p {
+          font-size: 17px;
+          line-height: 38px;
+
+          }
+
+        .program-list ul li {
+          font-size: 16px;
+          line-height: 40px;
+
+      }
+
+       /* program-area-end */
+
+       /* voage-area-start */
+
+        .voage-area {
+          padding: 0 0 65px 0;
+        }
+
+
+      .voage-title h2 {
+        font-size: 34px;
+        padding: 10px 0 0 0;
+
+    }
+
+    .voage-title p {
+        font-size: 30px;
+        line-height: 50px;
+    
+      }
+
+      .voage-contant h5 {
+        font-size: 17px;
+        margin: 28px 0 0 0;
+      }
+
+    .voage-contant p {
+      font-size: 17px;
+      line-height: 40px;
+    }
+
+    .voage-images img {
+      margin: 30px 0 0 0;
+
+    }
+
+    /* voage-area-end */
+
+     .exception-area {
+       padding: 0 0 60px 0;
+    }
+
+    .exception-images {
+      margin: 1px 0 0 0;
+    }
+
+  .except-images-1 {
+    position: relative;
+  }
+
+  .except-images-2 {
+    position: absolute;
+    top: 207px;
+    left: 193px;
+  }
+
+  .exception-title h2 {
+    font-size: 30px;
+   
+}
+
+  .exception-title p {
+    font-size: 25px;
+   
+  }
+
+  .exception-title p br {
+    display: none;
+  }
+
+  .exception-contant p { 
+    font-size: 19px;
+    
+  }
+
+  .exception-contant a {
+    font-size: 17px;
+  }
+
+  
+  .except-images-1 {
+    position: relative;
+  }
+
+  .except-images-2 {
+    position: absolute;
+    top: 151px;
+    left: 152px;
+  }
+
+  /* ***********exception-area-end********* */
+
+  /* ***********type-area-start********* */
+
+  .type-area {
+    padding: 0 0 45px 0;
+  }
+
+  .type-contant h2 {
+    font-size: 37px;
+    padding: 37px 0 0 0;
+  }
+
+  .type-contant p {
+    font-size: 26px;
+    color: #6B6C6B;
+  }
+
+  .type-contant dl {
+    font-size: 30px;
+    padding: 15px 0 0 0;
+  }
+
+  /* ***********type-area-end********* */
+
+  /* ***********les-area-start********* */
+  .les-area {
+    padding: 0 0 40px 0;
+  }
+
+  .les-title h2 {
+    font-size: 39px;
+    padding: 34px 0 0 0;
+  }
+
+  .les-content h2 {
+    font-size: 32px;
+    margin: 53px 0 0 0;
+  }
+
+  .les-content small {
+    font-size: 17px;
+    margin: 10px 0 0;
+  }
+
+  .les-content small br {
+    display: none;
+  }
+
+  .les-content p br {
+    display: none;
+  }
+
+  .les-content p {
+    font-size: 17px;
+  }
+
+  .les-content img {
+    margin: 64px 0 0 0;
+  }
+
+  /* ***********les-area-end********* */
+
+  /* ***********frais-area-end********* */
+  .frais-area {
+    padding: 0 0 40px 0;
+  }
+
+  .frais-title h2 {
+    font-size: 26px;
+    padding: 19px 0 0 0;
+  }
+
+  .frais-content p {
+    font-size: 18px;
+
+  }
+
+  /* ***********frais-area-end********* */
+
+  /* ***********from-area-start********* */
+   .form-area {
+    padding: 58px 0 17px 0;
+
+  }
+
+  .form {
+    padding: 0 5px 20px 5px;
+  
+  }
+
+  .form-title h4 {
+    font-size: 20px;
+    padding: 21px 0 20px 0;
+
+  }
+
+  .text-input {
+    padding: 0 5px 0 0;
+  }
+
+  .input-email {
+    padding: 0 0 0 5px;
+  }
+
+  /* ***********from-area-end********* */
+  .footer-content p {
+    font-size: 19px;
+    padding: 20px;
+   
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+  /*#################for-mobil#############*/
+         
